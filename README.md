@@ -1,3 +1,3 @@
 # hello-world
 Just test repository
- add text (1st)
+ add text (1st) (* test input)
